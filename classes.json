@@ -1,0 +1,76 @@
+{
+  "1": "Warrior",
+  "2": "Paladin",
+  "3": "Hunter",
+  "4": "Rogue",
+  "5": "Priest",
+  "6": "Death Knight",
+  "7": "Shaman",
+  "8": "Mage",
+  "9": "Warlock",
+  "10": "Monk",
+  "11": "Druid",
+  "12": "Demon Hunter",
+
+  "Guides":{
+
+    "Warrior": {
+      "General": {
+        "description": "A Warrior is a very powerful class, with the ability to tank or deal significant melee damage",
+        "icon": "https://media-hearth.cursecdn.com/attachments/0/157/warrior_11.png",
+        "specInfo": "Warriors have three specilizations:
+        \n
+        Arms Warriors are battlefield tacticians who focus their rage, waiting for the opportune moment to strike their opponents with overwhelming force.
+        They are heavily armored destroyers who specialize in dealing precise strikes, skillfully parrying incoming attacks, and regenerating their health anytime the enemy fails to attack them, all the while deftly maneuvering around the battlefield. \n
+        \n
+        \n
+        Fury Warriors are raging berserkers who wear their battle scars proudly, attacking their foes with a relentless flurry of attacks which further fuels their rage and heals their wounds, keeping them in the fight from start to finish.
+        With heavy plate armor and dual-wielding two-handed weapons, these juggernauts specialize in battlefield mobility and executing weakened foes, giving up consideration for their own well-being and focus on the enemy's destruction at all costs in a reckless race to the death.
+        \n
+        \n
+        Protection a traditional plate-wearing knight who uses their sword and shield to block damage and control their enemies. A protection warrior is a master of the shield, using it to prevent and inflict large amounts of damage.
+        ",
+        "resources": "
+        WowHead: http://www.wowhead.com/warrior
+        \n
+        Warrior Discord: https://discord.gg/pQp4JSQ
+        "
+
+      },
+      "Arms": {
+        "description": "Arms Warriors are battlefield tacticians who focus their rage, waiting for the opportune moment to strike their opponents with overwhelming force.
+        They are heavily armored destroyers who specialize in dealing precise strikes, skillfully parrying incoming attacks, and regenerating their health anytime the enemy fails to attack them, all the while deftly maneuvering around the battlefield.",
+        "icon": "wow.zamimg.com/images/wow/icons/large/ability_warrior_savageblow.jpg",
+        "statpriority": "Mastery > Haste > Versatility > Critical Strike",
+        "Great Guides": "
+        WoWhead: http://www.wowhead.com/arms-gear-guide
+        \n
+        IcyViens: http://www.icy-veins.com/wow/arms-warrior-pve-dps-guide
+        ",
+        "ClassDiscord": "https://discord.gg/pQp4JSQ"
+      },
+      "Fury": {
+        "description": "",
+        "icon": "",
+        "statpriority": "",
+        "Great Guides": "
+        WoWhead:
+        \n
+        IcyViens:
+        ",
+        "ClassDiscord": ""
+      },
+      "Protection":{
+        "description": "",
+        "icon": "",
+        "statpriority": "",
+        "Great Guides": "
+        WoWhead:
+        \n
+        IcyViens:
+        ",
+        "ClassDiscord": ""
+      }
+    }
+  }
+}
